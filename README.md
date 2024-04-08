@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raldyachmad&label=Profile%20views&color=0e75b6&style=flat" alt="raldyachmad" /> </p>
 
-- 👨‍💻 You can also check out my portfolio at [https://https://raldyachmad.vercel.app/](https://raldyachmad.vercel.app/)
+- 👨‍💻 You can also check out my portfolio at <a href="https://raldyachmad.vercel.app/" target="_blank">https://raldyachmad.vercel.app/</a>
 
 - 📫 How to reach me **raldyachmad.work@gmail.com**
 
